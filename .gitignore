@@ -1,0 +1,5 @@
+convertidos_webm/
+node_modules/
+videos/
+
+package-lock.json
